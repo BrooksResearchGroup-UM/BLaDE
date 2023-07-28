@@ -1,0 +1,3 @@
+[submodule "BLaDE"]
+	path = BLaDE
+	url = git@github.com:RyanLeeHayes/BLaDE.git
