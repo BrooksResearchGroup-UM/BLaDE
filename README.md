@@ -1,4 +1,4 @@
-# BLaDe
+# BLaDE
   - __Hayes, R. L.; Buckner, J.; Brooks, C. L., III. BLaDE: A Basic Lambda Dynamics Engine for GPU-Accelerated Molecular Dynamics Free Energy Calculations. *J Chem Theory Comput* 2021, 17 (11), 6799-6807. DOI: 10.1021/acs.jctc.1c00833.__
 
 ### BLaDE is a Basic Lambda Dynamics Engine for molecular dynamics based alchemical free energy calculations using multisite lambda dynamics on graphical processor units.
